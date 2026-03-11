@@ -18,6 +18,13 @@ This project applies supervised machine learning models to predict customer chur
 ## Dataset
 
 Bank Customer Churn Dataset (Kaggle)
+ 
+## Libraries used:
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
 
 ## Accuracy comparison:
 
