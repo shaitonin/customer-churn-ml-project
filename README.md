@@ -18,3 +18,10 @@ This project applies supervised machine learning models to predict customer chur
 ## Dataset
 
 Bank Customer Churn Dataset (Kaggle)
+
+## Accuracy comparison:
+
+Perceptron: 0.76
+Decision Tree: 0.80
+Optimized Decision Tree: 0.86
+Random Forest: 0.86
